@@ -153,7 +153,7 @@ describe('Token', ()=> {
         expect(await token.allowance(deployer.address, exchange.address)).to.be.equal(0)
       })
 
-      it('Emits a Trasnfer event', async () => {
+      it('Emits a Transfer event', async () => {
 			const event = result.events[0]
 			expect(event.event).to.equal('Transfer')
 
