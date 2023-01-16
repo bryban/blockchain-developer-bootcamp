@@ -14,7 +14,7 @@
     },
     "explorerURL" : "#"
   }, 
-  "42": {
+  "5": {
     "exchange": {
       "address": "0x4576A2E0B12214Fa1F3F9ebaC730F8982A51fb8a"
     },
@@ -27,7 +27,7 @@
     "mDAI": {
       "address": "0x8f8122A2867FD0a4156aD04a9c0DFFfef57a0f25"
     },
-    "explorerURL": "https://kovan.etherscan.io"
+    "explorerURL": "https://goerli.etherscan.io"
   },
   "80001": {
     "exchange": {
